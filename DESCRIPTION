@@ -11,4 +11,7 @@ Depends:
     shiny,
     RJSONIO,
     plyr
+Suggests:
+    testthat,
+    RSelenium
 URL: https://github.com/AnalytixWare/ShinySky
